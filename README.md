@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://github.com/WellSantoss/WellSantoss/blob/main/img/image.svg" min-width="400px" max-width="400px" width="400px" align="right" alt="Codding">
 
 <p align="left"> 
   <h2><strong>Olá, meu nome é Wellington!</strong></h2>
