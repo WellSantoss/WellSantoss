@@ -1,7 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  <strong>Olá, meu nome é Wellington!</strong>
+  <h2><strong>Olá, meu nome é Wellington!</strong></h2>
+  <br>
   Atualmente estou cursando o 4° semestre de Análise e Desenvolvimento de Sistemas e estudando para ser desenvolvedor web Front-End e UI Designer.
 </p>
 
