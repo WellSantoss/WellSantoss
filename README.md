@@ -1,9 +1,9 @@
-<img src="https://github.com/WellSantoss/WellSantoss/blob/main/img/image.svg" min-width="420px" max-width="420px" width="420px" align="right" alt="Codding">
-
 <p align="left"> 
   <h2><strong>Olá, meu nome é Wellington!</strong></h2>
   Atualmente estou cursando o 4° semestre de Análise e Desenvolvimento de Sistemas e estudando para ser desenvolvedor web Front-End e UI Designer.
 </p>
+
+<img src="https://github.com/WellSantoss/WellSantoss/blob/main/img/image.svg" min-width="420px" max-width="420px" width="420px" align="right" alt="Codding">
 
 <p align="left">
   🦄 Skills: <strong>HTML5, CSS3, JavaScript e UI Design.</strong>
