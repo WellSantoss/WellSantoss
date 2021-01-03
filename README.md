@@ -2,7 +2,6 @@
 
 <p align="left"> 
   <h2><strong>Olá, meu nome é Wellington!</strong></h2>
-  <br>
   Atualmente estou cursando o 4° semestre de Análise e Desenvolvimento de Sistemas e estudando para ser desenvolvedor web Front-End e UI Designer.
 </p>
 
@@ -19,12 +18,12 @@
 </p>
 
 <p align="left">
-  <a href="#" alt="Gmail">
+  <a href="wellington1998santoss@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=wellington1998santoss@gmail.com" /></a>
 
-  <a href="#" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/wellbhs/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wellbhs/" /></a>
 
-  <a href="#" alt="Instagram">
+  <a href="https://www.instagram.com/well_bhs/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/well_bhs/"/></a>
 </p>
