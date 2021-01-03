@@ -1,16 +1,29 @@
-### Hi there 👋
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<!--
-**WellSantoss/WellSantoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> 
+  <strong>Olá, meu nome é Wellington!</strong>
+  Atualmente estou cursando o 4° semestre de Análise e Desenvolvimento de Sistemas e estudando para ser desenvolvedor web Front-End e UI Designer.
+</p>
 
-Here are some ideas to get you started:
+<p align="left">
+  🦄 Skills: <strong>HTML5, CSS3, JavaScript e UI Design.</strong>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  💼 Tools: <strong>Visual Studio Code, Figma, Git e GitHub.</strong>
+</p>
+
+<p align="left">
+  💌 Caso queira conversar ou realizar um projeto comigo, não hesite em me mandar uma mensagem: ⤵️
+</p>
+
+<p align="left">
+  <a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=wellington1998santoss@gmail.com" /></a>
+
+  <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wellbhs/" /></a>
+
+  <a href="#" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/well_bhs/"/></a>
+</p>
