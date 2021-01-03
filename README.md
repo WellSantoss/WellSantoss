@@ -2,7 +2,7 @@
   <h2><strong>Olá, meu nome é Wellington!</strong></h2>
 </p>
 
-<img src="https://github.com/WellSantoss/WellSantoss/blob/main/img/image.svg" min-width="420px" max-width="420px" width="420px" align="right" alt="Codding">
+<img src="https://github.com/WellSantoss/WellSantoss/blob/main/img/image.svg" min-width="420px" max-width="420px" width="420px" align="right" alt="Developer activity">
 
 <p align="left"> 
   Estou no 4° semestre de Análise e Desenvolvimento de Sistemas e estudando para ser desenvolvedor Front-End e UI Designer.
