@@ -5,7 +5,7 @@
 <img src="https://github.com/WellSantoss/WellSantoss/blob/main/img/image.svg" min-width="400px" max-width="400px" width="400px" align="right" alt="Developer activity">
 
 <p align="left"> 
-  Estou no 4° semestre de Análise e Desenvolvimento de Sistemas e estudando para ser desenvolvedor Front-End e UI Designer.
+  Estou no 4° semestre de Análise e Desenvolvimento de Sistemas e atualmente focando os estudos em Desenvolvimento Web.
 </p>
 
 <p align="left">
