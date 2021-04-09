@@ -11,11 +11,11 @@
 </p>
 
 <p align="left">
-   💪 <strong>Skills</strong>: HTML5, CSS3, JavaScript e UI Design.
+   💪 <strong>Skills</strong>: HTML5, CSS3 e JavaScript.
 </p>
 
 <p align="left">
-   🛠 <strong>Tools</strong>: Visual Studio Code, Figma, Git e GitHub.
+   🛠 <strong>Tools</strong>: Figma, Git e GitHub.
 </p>
 
 <p align="left">
