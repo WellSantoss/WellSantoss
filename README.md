@@ -19,7 +19,7 @@
 </p>
 
 <p align="left">
-   Caso queira conversar ou realizar um projeto comigo, não hesite em me mandar uma mensagem: ⤵️
+   Caso queira conversar ou realizar um projeto comigo, entre em contato: ⤵️
 </p>
 
 <p align="left">
