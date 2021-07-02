@@ -5,13 +5,13 @@
 <img src="https://github.com/WellSantoss/WellSantoss/blob/main/img/image.svg" min-width="400px" max-width="400px" width="400px" align="right" alt="Developer activity">
 
 <p align="left"> 
-  Curso o 4° semestre de Análise e Desenvolvimento de Sistemas e possuo experiência em pequenos projetos pessoais desenvolvidos com HTML, CSS e Javascript e outros feitos na faculdade com PHP, C# e Java. 
+  Curso o 5° semestre de Análise e Desenvolvimento de Sistemas e possuo experiência em pequenos projetos pessoais desenvolvidos com HTML, CSS e Javascript e outros feitos na faculdade com PHP, C# e Java. 
 
-  Estou focando meus estudos no Desenvolvimento Web, principalmente o Front-end através da plataforma Origamid, porém meu objetivo é me tornar Desenvolvedor Full-stack.
+  Estou focando meus estudos no Desenvolvimento Web, com objetivo de me tornar Desenvolvedor Full-stack.
 </p>
 
 <p align="left">
-   💪 <strong>Skills</strong>: HTML5, CSS3/SASS, JavaScript, UI Design.
+   💪 <strong>Skills</strong>: HTML5, CSS3/SASS, JavaScript, Vue.js, UI Design.
 </p>
 
 <p align="left">
