@@ -5,15 +5,15 @@
 <img src="https://github.com/WellSantoss/WellSantoss/blob/main/img/image.svg" min-width="400px" max-width="400px" width="400px" align="right" alt="Developer activity">
 
 <p align="left"> 
-  Atualmente estou no 5° semestre de Análise e Desenvolvimento de Sistemas e trabalho com ASP Clássico na Global Websites.
+  Sou formado em Análise e Desenvolvimento de Sistemas e atualmente trabalho como Assistente de Desenvolvimento Back-end com ASP Classic e PHP na Global Websites. No meu tempo livro gosto de estudar tecnologias front-end, atualmente Vue.js.
 </p>
 
 <p align="left">
-   💪 <strong>Linguagens/Tecnologias</strong>: HTML5, CSS3/SASS, JavaScript, Vue.js (Iniciante), SQL.
+   💪 <strong>Linguagens/Tecnologias</strong>: HTML5, CSS3, SASS, JavasScript, Vue.js, ASP Classic, PHP, MySQL.
 </p>
 
 <p align="left">
-   🛠 <strong>Ferramentas</strong>: Git/GitHub.
+   🛠 <strong>Ferramentas</strong>: Git/GitHub, Figma.
 </p>
 
 <p align="left">
