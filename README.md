@@ -5,7 +5,7 @@
 <img src="https://github.com/WellSantoss/WellSantoss/blob/main/img/image.svg" min-width="400px" max-width="400px" width="400px" align="right" alt="Developer activity">
 
 <p align="left"> 
-  Sou formado em Análise e Desenvolvimento de Sistemas e atualmente trabalho como Assistente de Desenvolvimento Back-end com ASP Classic e PHP na Global Websites. No meu tempo livro gosto de estudar tecnologias front-end, atualmente Vue.js.
+  Sou formado em Análise e Desenvolvimento de Sistemas e atualmente trabalho como Assistente de Desenvolvimento Back-end com ASP Classic e PHP na Global Websites. No meu tempo livre gosto de estudar tecnologias Front-end, atualmente Vue.js.
 </p>
 
 <p align="left">
